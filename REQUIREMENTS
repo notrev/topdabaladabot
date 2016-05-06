@@ -1,0 +1,5 @@
+# Package Requirements for TopDaBaladaBot's virtualenv
+# usage:
+# $ pip install -r REQUIREMENTS
+
+telepot
